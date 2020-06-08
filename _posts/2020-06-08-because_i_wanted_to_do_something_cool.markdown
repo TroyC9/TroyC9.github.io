@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Because I wanted to do something cool "
-date:       2020-06-08 23:35:40 +0000
+date:       2020-06-08 19:35:41 -0400
 permalink:  because_i_wanted_to_do_something_cool
 ---
 
@@ -41,7 +41,7 @@ I want to help others create great things, by creating great things through Soft
 Here. We. Go. 
 
 
-Current Music: [19.10 by Childish Gambino](https://open.spotify.com/track/5X4R93Qcw54yp9Utwy7Mlr?si=tojomJWlQbWk-0fmje1RLw) 
-Current Mood: :sleeping:
-Current Podcast: [Wind of Change](https://open.spotify.com/show/3vikAuFxKVNe2GBZC61IYD?si=QgZ-nDQ8QmyNn0SD4znMEg) (if youre into Cold War, CIA fun, and 80s Rock, Im on episode 6) 
+Current Music: [19.10 by Childish Gambino](https://open.spotify.com/track/5X4R93Qcw54yp9Utwy7Mlr?si=tojomJWlQbWk-0fmje1RLw) <br>
+Current Mood: :sleeping:<br>
+Current Podcast: [Wind of Change](https://open.spotify.com/show/3vikAuFxKVNe2GBZC61IYD?si=QgZ-nDQ8QmyNn0SD4znMEg) (if youre into Cold War, CIA fun, and 80s Rock, Im on episode 6) <br>
 *Whatever I can do to make this more like Xanga, I will.  Just wait until I pull out the custom glitter themes. * 
